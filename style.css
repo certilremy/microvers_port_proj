@@ -1,6 +1,5 @@
 #welcome-section{
     background-color:#131418;
-    text-color:white;
     color: white;
     text-align: center;
 
@@ -9,7 +8,9 @@
 
 #project{
     background-color:#131418;
-    text-color:white;
     color:#672e3b;
 
+}
+.navbar-collapse{
+    background: red;
 }

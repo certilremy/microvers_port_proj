@@ -1,15 +1,31 @@
+
 #welcome-section{
     background-color:#131418;
-    text-color:white;
     color: white;
     text-align: center;
 
-}
-
-
 #project{
     background-color:#131418;
-    text-color:white;
+
     color:#672e3b;
 
 }
+.navbar-collapse{
+
+}
+
+.projects-pad {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 4rem;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+  }
+
+  .project-image {
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+  }

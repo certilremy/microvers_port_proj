@@ -1,11 +1,21 @@
+<<<<<<< HEAD
 #welcome-section{
     background-color:#131418;
     text-color:white;
     color: white;
+    text-align: center;
 }
 
 #project{
     background-color:#131418;
     text-color:white;
     color:#672e3b;
+=======
+html, body{
+	background-color: black;
+	color: white;
+}
+#welcome-section{
+	
+>>>>>>> 6de7b4f6d453d3199e265277bf9e61fe372fd192
 }

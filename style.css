@@ -1,7 +1,15 @@
-html, body{
-	background-color: black;
-	color: white;
-}
 #welcome-section{
-	text-align: center;
+    background-color:#131418;
+    text-color:white;
+    color: white;
+    text-align: center;
+
+}
+
+
+#project{
+    background-color:#131418;
+    text-color:white;
+    color:#672e3b;
+
 }
